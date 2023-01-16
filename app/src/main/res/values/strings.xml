@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Работа с ресурсами</string>
+    <string name="message">Привет мир!!</string>
+</resources>
